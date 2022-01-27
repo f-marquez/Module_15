@@ -29,17 +29,18 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
   - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   
   ### Summary Statistics on Suspension Coils
-  Deliverable 2: Summary Statistics on Suspension Coils<br>
-   ![Alt text]() Total Summary<br>
-   ![Alt text]() Lot Summary<br>
+  #### Deliverable 2: Summary Statistics on Suspension Coils<br>
+   ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/total_summary.png) Total Summary<br>
+   ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/lot_summary.png) Lot Summary<br>
   
-  ### T-Tests on Suspension Coils
-  Deliverable 3: T-Test on Suspension Coils<br>
-   ![Alt text]() screenshots of the t-test to support your summary.<br>
-   ![Alt text]() screenshots of the t-test to support your summary.<br>
-   
+  #### Deliverable 3:** T-Test on Suspension Coils
+  #### T-Tests on Suspension Coils
+   ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/t_test1.png) T-Test 1<br>
+   ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/t_test2.png) T-Test 2<br>
+   ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/t_test3.png) T-Test 3<br>
    ### Study Design: MechaCar vs Competition
-   Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+  
+  #### Deliverable 4: Design a Study Comparing the MechaCar to the Competition
    
   Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
   In your description, address the following questions:
