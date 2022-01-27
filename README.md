@@ -21,7 +21,7 @@ In this challenge, you’ll help Jeremy and the data analytics team do the follo
   ### Linear Regression to Predict MPG
   Deliverable 1: Linear Regression to Predict MPG
 
-  ![Alt text]()
+  ![Alt text](https://github.com/f-marquez/Module_15/blob/main/Module_15/MechaCar_Statistical_Analysis-main/Images/linear_regression.png)
   
   a screenshot of the output from the linear regression, and address the following questions:
   - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
